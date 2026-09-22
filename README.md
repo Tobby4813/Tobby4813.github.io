@@ -223,20 +223,21 @@
     <section id="home" class="min-h-screen flex items-center pt-20">
         <div class="container mx-auto px-6 flex flex-col md:flex-row items-center justify-between">
             <div class="md:w-1/2 mb-12 md:mb-0">
-                <h1 class="text-4xl md:text-6xl font-bold mb-4">Hi, I'm <span class="gradient-text">Olaleye Tobiloba</span></h1>
-                <h2 class="text-2xl md:text-3xl font-semibold mb-6 text-slate-300">Data Analyst</h2>
+                <h1 class="text-4xl md:text-6xl font-bold mb-4">Hi, I'm <span class="gradient-text">Rehana</span></h1>
+                <h2 class="text-2xl md:text-3xl font-semibold mb-6 text-slate-300">Frontend Developer</h2>
                 <p class="text-lg mb-8 text-slate-400 max-w-lg">
-                  I specialize in transforming data into actionable insights, helping businesses make informed decisions. With expertise in Python, SQL, and data visualization tools, I turn complex datasets into clear, impactful stories. 
+                    I build exceptional digital experiences that are fast, accessible, and visually appealing. 
+                    Let's create something amazing together.
                 </p>
                 <div class="flex space-x-4">
                     <a href="#contact" class="px-6 py-3 rounded-full btn-primary font-medium">Hire Me</a>
                     <a href="#projects" class="px-6 py-3 rounded-full border border-primary text-primary font-medium hover:bg-primary/10 transition">View Work</a>
                 </div>
                 <div class="flex mt-8 space-x-4">
-                    <a href="https://github.com/Tobby4813/Olaleye-Tobiloba" class="social-icon text-xl w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 hover:bg-primary">
+                    <a href="#" class="social-icon text-xl w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 hover:bg-primary">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/olaleye-tobiloba" class="social-icon text-xl w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 hover:bg-blue-600">
+                    <a href="#" class="social-icon text-xl w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 hover:bg-blue-600">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
                     <a href="#" class="social-icon text-xl w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 hover:bg-blue-400">
@@ -250,7 +251,7 @@
             <div class="md:w-1/2 flex justify-center">
                 <div class="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96">
                     <div class="absolute inset-0 rounded-full bg-gradient-to-br from-primary to-secondary blur-xl opacity-20"></div>
-                    <img src="Tobby_Pix.jpeg" 
+                    <img src="girl.jpg" 
                          alt="Profile" 
                          class="relative w-full h-full object-cover rounded-full border-4 border-slate-800 floating">
                 </div>
@@ -270,7 +271,8 @@
                 <div class="md:w-1/3 mb-8 md:mb-0 flex justify-center">
                     <div class="relative w-64 h-64">
                         <div class="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary to-secondary blur-xl opacity-20"></div>
-                        <img src="Tobby_Pix1.jpeg"  
+                        <img src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" 
+                             alt="About" 
                              class="relative w-full h-full object-cover rounded-2xl border-4 border-slate-800">
                     </div>
                 </div>
@@ -278,22 +280,25 @@
                 <div class="md:w-2/3 md:pl-12">
                     <h3 class="text-2xl font-bold mb-6">Who am I?</h3>
                     <p class="text-slate-400 mb-6">
-                        I'm a data professional with expertise in transforming complex datasets into actionable insights. My work focuses on creating interactive visualization and data-driven stories that help organizations make informed decisions.
-With experience in Power BI, SQL and data modelling. I specialize in developing comprehensive reports that reveal hidden patterns and trends in data. This portfolio showcases my projects across various sectors including healthcare, customer/sales inventory and logistics.
-
+                        I'm a passionate Full Stack Developer with over 5 years of experience creating modern web applications. 
+                        I specialize in JavaScript ecosystems including React, Node.js, and modern CSS frameworks.
                     </p>
                     
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                         <div>
-                            <h4 class="font-semibold mb-2">Name: <span class="text-slate-300">Olaleye Tobiloba</span></h4>
-                            <h4 class="font-semibold mb-2">Email: <span class="text-slate-300">tobbyolaleye@yahoo.com</span></h4>
-                            <h4 class="font-semibold mb-2">Phone: <span class="text-slate-300">+234 7069464813</span></h4>
+                            <h4 class="font-semibold mb-2">Name: <span class="text-slate-300">Alex Carter</span></h4>
+                            <h4 class="font-semibold mb-2">Email: <span class="text-slate-300">alex@example.com</span></h4>
+                            <h4 class="font-semibold mb-2">Phone: <span class="text-slate-300">+1 (555) 123-4567</span></h4>
                         </div>
-                        
+                        <div>
+                            <h4 class="font-semibold mb-2">Age: <span class="text-slate-300">28</span></h4>
+                            <h4 class="font-semibold mb-2">Experience: <span class="text-slate-300">5+ Years</span></h4>
+                            <h4 class="font-semibold mb-2">Location: <span class="text-slate-300">San Francisco, CA</span></h4>
+                        </div>
                     </div>
                     
                     <div class="flex space-x-4">
-                        <a href="Olaleye Tobiloba (CV).pdf" class="px-6 py-3 rounded-full btn-primary font-medium">Download CV</a>
+                        <a href="#" class="px-6 py-3 rounded-full btn-primary font-medium">Download CV</a>
                         <a href="#contact" class="px-6 py-3 rounded-full border border-primary text-primary font-medium hover:bg-primary/10 transition">Contact Me</a>
                     </div>
                 </div>
@@ -303,25 +308,41 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
             <div class="mt-20">
                 <h3 class="text-2xl font-bold mb-8 text-center">My <span class="gradient-text">Experience</span></h3>
                 
-                
+                <div class="relative max-w-3xl mx-auto">
+                    <div class="absolute left-1/2 h-full w-0.5 bg-slate-700 transform -translate-x-1/2"></div>
                     
-                   
-                        
-                            <h4 class="text-lg font-bold mb-2">Junior Data Analyst</h4>
-                            <p class="text-sm text-slate-400 mb-2">Tech Studio Consults• 2026 - Internship</p>
-                            <p class="text-slate-400 mb-6">
-                               Developed SQL queries to identify best-selling products, slow-moving stock, and customer purchasing patterns, supporting strategic decisions.
-                               Built relational database models with customers, suppliers, products, orders, and payments, enabling comprehensive business insights.
-                               Collaborated with cross-functional teams to translate business requirements into actionable data solutions.
+                    <div class="mb-8 flex justify-between items-center w-full timeline-item">
+                        <div class="order-1 w-5/12"></div>
+                        <div class="order-1 w-5/12 px-4 py-4 bg-slate-800 rounded-lg shadow-lg">
+                            <h4 class="text-lg font-bold mb-2">Senior Frontend Developer</h4>
+                            <p class="text-sm text-slate-400 mb-2">TechCorp Inc. • 2021 - Present</p>
+                            <p class="text-slate-300">
+                                Lead a team of developers to build responsive web applications using React and Next.js. 
+                                Improved performance by 40% through code optimization.
                             </p>
                         </div>
                     </div>
                     
-                    
+                    <div class="mb-8 flex justify-between items-center w-full timeline-item">
+                        <div class="order-1 w-5/12 px-4 py-4 bg-slate-800 rounded-lg shadow-lg">
+                            <h4 class="text-lg font-bold mb-2">Full Stack Developer</h4>
+                            <p class="text-sm text-slate-400 mb-2">Digital Solutions • 2019 - 2021</p>
+                            <p class="text-slate-300">
+                                Developed full-stack applications with Node.js, Express, and MongoDB. 
+                                Implemented RESTful APIs and integrated third-party services.
+                            </p>
+                        </div>
+                        <div class="order-1 w-5/12"></div>
                     </div>
                     
-                    
-                                
+                    <div class="mb-8 flex justify-between items-center w-full timeline-item">
+                        <div class="order-1 w-5/12"></div>
+                        <div class="order-1 w-5/12 px-4 py-4 bg-slate-800 rounded-lg shadow-lg">
+                            <h4 class="text-lg font-bold mb-2">Junior Web Developer</h4>
+                            <p class="text-sm text-slate-400 mb-2">StartUp Ventures • 2017 - 2019</p>
+                            <p class="text-slate-300">
+                                Built responsive websites using HTML, CSS, and JavaScript. 
+                                Collaborated with designers to implement UI/UX improvements.
                             </p>
                         </div>
                     </div>
@@ -344,14 +365,14 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
         <h3>Technical Skills</h3>
 
         <div class="skills-list">
-            <span class="skill">Power Query</span>
+            <span class="skill">Python</span>
             <span class="skill">SQL</span>
-            <span class="skill">Advanced Excel</span>
+            <span class="skill">Excel</span>
             <span class="skill">Power BI</span>
             <span class="skill">Pandas</span>
             <span class="skill">NumPy</span>
-            <span class="skill">DAX</span>
-            <span class="skill">Google sheets</span>
+            <span class="skill">Scikit-learn</span>
+            <span class="skill">Git</span>
             <span class="skill">GitHub</span>
         </div>
     </div>
@@ -379,46 +400,51 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
                 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6">
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-html5 text-4xl text-orange-500 mb-2"></i>
-                        <span>Excel</span>
+                        <span>HTML5</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-css3-alt text-4xl text-blue-500 mb-2"></i>
-                        <span>SQL</span>
+                        <span>CSS3</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-js text-4xl text-yellow-400 mb-2"></i>
-                        <span>Power BI</span>
+                        <span>JavaScript</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-react text-4xl text-blue-400 mb-2"></i>
-                        <span>Python</span>
+                        <span>React</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-node-js text-4xl text-green-500 mb-2"></i>
-                        <span>Git</span>
+                        <span>Node.js</span>
                     </div>
-                    
+                    <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
+                        <i class="fas fa-database text-4xl text-blue-300 mb-2"></i>
+                        <span>MongoDB</span>
+                    </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-git-alt text-4xl text-orange-600 mb-2"></i>
-                        <span>Github</span>
+                        <span>Git</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-npm text-4xl text-red-500 mb-2"></i>
-                        <span>Power point</span>
+                        <span>npm</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-sass text-4xl text-pink-500 mb-2"></i>
-                        <span>Google Sheets</span>
+                        <span>Sass</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fab fa-figma text-4xl text-purple-500 mb-2"></i>
-                        <span>Microsoft word</span>
+                        <span>Figma</span>
                     </div>
                     <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
                         <i class="fas fa-terminal text-4xl text-gray-300 mb-2"></i>
                         <span>VS Code</span>
                     </div>
-                    
+                    <div class="flex flex-col items-center p-6 bg-slate-800 rounded-lg card-hover">
+                        <i class="fab fa-linux text-4xl text-white mb-2"></i>
+                        <span>Linux</span>
                     </div>
                 </div>
             </div>
@@ -437,25 +463,25 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
                 <!-- Project 1 -->
                 <div class="project-card rounded-xl overflow-hidden card-hover">
                     <div class="h-48 overflow-hidden">
-                        <img src="Overview.jpg" 
+                        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" 
                              alt="Project 1" 
                              class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
-                        <h3 class="text-xl font-bold mb-2">Logistics Analytics Dashboard|Excel</h3>
+                        <h3 class="text-xl font-bold mb-2">E-commerce Platform</h3>
                         <p class="text-slate-400 mb-4">
-                            A full-featured Logistics Analytics built with Excel
+                            A full-featured e-commerce platform built with React, Node.js, and MongoDB.
                         </p>
                         <div class="flex flex-wrap gap-2 mb-4">
-                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">PivotTables</span>
-                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">Slicers</span>
-                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">Power Query</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">React</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">Node.js</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">MongoDB</span>
                         </div>
                         <div class="flex space-x-3">
-                            <a href="https://github.com/Tobby4813/Logistics-Analaytics-Dashboard-Excel-Project.git" class="text-primary hover:text-secondary">
-                                <i class="fab fa-github"></i> Documentation
+                            <a href="#" class="text-primary hover:text-secondary">
+                                <i class="fas fa-external-link-alt"></i> Live Demo
                             </a>
-                            <a href="https://github.com/Tobby4813/Logistics-Analaytics-Dashboard-Excel-Project.git" class="text-primary hover:text-secondary">
+                            <a href="#" class="text-primary hover:text-secondary">
                                 <i class="fab fa-github"></i> Code
                             </a>
                         </div>
@@ -465,23 +491,23 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
                 <!-- Project 2 -->
                 <div class="project-card rounded-xl overflow-hidden card-hover">
                     <div class="h-48 overflow-hidden">
-                        <img src="Hospital Overview.png" 
+                        <img src="https://images.unsplash.com/photo-1555421689-3f034debb7a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" 
                              alt="Project 2" 
                              class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
-                        <h3 class="text-xl font-bold mb-2">Hospital Overview</h3>
+                        <h3 class="text-xl font-bold mb-2">Task Management App</h3>
                         <p class="text-slate-400 mb-4">
-                            A comprehensive hospital overview dashboard built with Power BI.
+                            A productivity app for managing tasks with drag-and-drop functionality.
                         </p>
                         <div class="flex flex-wrap gap-2 mb-4">
-                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">DAX</span>
-                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">M.Query</span>
-                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">Data Modeling</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">React</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">Firebase</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">TailwindCSS</span>
                         </div>
                         <div class="flex space-x-3">
-                            <a href="https://github.com/Tobby4813/Hospital-Readmission-Patient-Outcome-Analysis-Dashboard--Power-Bi.git" class="text-primary hover:text-secondary">
-                                <i class="fas fa-external-link-alt"></i> Documentation
+                            <a href="#" class="text-primary hover:text-secondary">
+                                <i class="fas fa-external-link-alt"></i> Live Demo
                             </a>
                             <a href="#" class="text-primary hover:text-secondary">
                                 <i class="fab fa-github"></i> Code
@@ -546,9 +572,59 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
                     </div>
                 </div>
                 
+                <!-- Project 5 -->
+                <div class="project-card rounded-xl overflow-hidden card-hover">
+                    <div class="h-48 overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" 
+                             alt="Project 5" 
+                             class="w-full h-full object-cover">
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold mb-2">Portfolio Website</h3>
+                        <p class="text-slate-400 mb-4">
+                            A responsive portfolio website built with modern design principles.
+                        </p>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">HTML5</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">CSS3</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">JavaScript</span>
+                        </div>
+                        <div class="flex space-x-3">
+                            <a href="#" class="text-primary hover:text-secondary">
+                                <i class="fas fa-external-link-alt"></i> Live Demo
+                            </a>
+                            <a href="#" class="text-primary hover:text-secondary">
+                                <i class="fab fa-github"></i> Code
+                            </a>
+                        </div>
+                    </div>
+                </div>
                 
-                
-               
+                <!-- Project 6 -->
+                <div class="project-card rounded-xl overflow-hidden card-hover">
+                    <div class="h-48 overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" 
+                             alt="Project 6" 
+                             class="w-full h-full object-cover">
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold mb-2">Team Collaboration App</h3>
+                        <p class="text-slate-400 mb-4">
+                            Real-time collaboration tool for remote teams with chat functionality.
+                        </p>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">React</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">Socket.io</span>
+                            <span class="px-3 py-1 bg-slate-700 rounded-full text-sm">MongoDB</span>
+                        </div>
+                        <div class="flex space-x-3">
+                            <a href="#" class="text-primary hover:text-secondary">
+                                <i class="fas fa-external-link-alt"></i> Live Demo
+                            </a>
+                            <a href="#" class="text-primary hover:text-secondary">
+                                <i class="fab fa-github"></i> Code
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -584,7 +660,7 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
                             </div>
                             <div>
                                 <h4 class="font-bold mb-1">Location</h4>
-                                <p class="text-slate-400"></p>
+                                <p class="text-slate-400">San Francisco, California</p>
                             </div>
                         </div>
                         
@@ -594,7 +670,7 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
                             </div>
                             <div>
                                 <h4 class="font-bold mb-1">Email</h4>
-                                <p class="text-slate-400">tobbyolaleye@yahoo.com</p>
+                                <p class="text-slate-400">alex@example.com</p>
                             </div>
                         </div>
                         
@@ -604,7 +680,7 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
                             </div>
                             <div>
                                 <h4 class="font-bold mb-1">Phone</h4>
-                                <p class="text-slate-400">+2347069464813
+                                <p class="text-slate-400">+1 (555) 123-4567</p>
                             </div>
                         </div>
                     </div>
@@ -664,14 +740,14 @@ With experience in Power BI, SQL and data modelling. I specialize in developing 
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <div class="mb-6 md:mb-0">
                     <a href="#" class="text-2xl font-bold gradient-text">Portfolio</a>
-                    <p class="text-slate-400 mt-2">© 2026 Tobiloba Olaleye. All rights reserved.</p>
+                    <p class="text-slate-400 mt-2">© 2023 Alex Carter. All rights reserved.</p>
                 </div>
                 
                 <div class="flex space-x-6">
-                    <a href="https://github.com/Tobby4813/Olaleye-Tobiloba" class="text-slate-400 hover:text-primary transition">
+                    <a href="#" class="text-slate-400 hover:text-primary transition">
                         <i class="fab fa-github text-xl"></i>
                     </a>
-                    <a href="https://linkedin.com/in/tobiloba-olaleye" class="text-slate-400 hover:text-blue-600 transition">
+                    <a href="#" class="text-slate-400 hover:text-blue-600 transition">
                         <i class="fab fa-linkedin-in text-xl"></i>
                     </a>
                     <a href="#" class="text-slate-400 hover:text-blue-400 transition">
