@@ -189,7 +189,7 @@
     <nav class="fixed w-full bg-darker/80 backdrop-blur-sm z-50 shadow-lg">
         <div class="container mx-auto px-6 py-4">
             <div class="flex justify-between items-center">
-                <a href="#" class="text-2xl font-bold gradient-text">Portfolio</a>
+                <a href="#" class="text-2xl font-bold gradient-text">My Portfolio</a>
                 
                 <!-- Mobile menu button -->
                 <div class="md:hidden">
